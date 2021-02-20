@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/meuapp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/meuapp/static/js/main.8a43a4b5.chunk.js",
+    "main.js.map": "/meuapp/static/js/main.8a43a4b5.chunk.js.map",
+    "runtime-main.js": "/meuapp/static/js/runtime-main.cef4eb68.js",
+    "runtime-main.js.map": "/meuapp/static/js/runtime-main.cef4eb68.js.map",
+    "static/js/2.5d38438d.chunk.js": "/meuapp/static/js/2.5d38438d.chunk.js",
+    "static/js/2.5d38438d.chunk.js.map": "/meuapp/static/js/2.5d38438d.chunk.js.map",
+    "static/js/3.ee5ba955.chunk.js": "/meuapp/static/js/3.ee5ba955.chunk.js",
+    "static/js/3.ee5ba955.chunk.js.map": "/meuapp/static/js/3.ee5ba955.chunk.js.map",
+    "index.html": "/meuapp/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/meuapp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5d38438d.chunk.js.LICENSE.txt": "/meuapp/static/js/2.5d38438d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/meuapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cef4eb68.js",
+    "static/js/2.5d38438d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8a43a4b5.chunk.js"
+  ]
+}
